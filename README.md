@@ -12,7 +12,7 @@ Excel analysis of 10,000 US patient records covering demographics, medical condi
 
 ## Dataset
 
-10,000 patient records with 16 columns: Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, Test Results, plus a computed Length of Stay column. All work is in `da_healthcare_excel.xlsx` (raw data, cleaned data and one analysis sheet per task).
+10,000 patient records with 16 columns: Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, Test Results, plus a computed Length of Stay column. All work is in `Healthcare_Data_v1.xlsx` (raw data, cleaned data and one analysis sheet per task).
 
 ## Data cleaning
 
@@ -24,7 +24,7 @@ Excel analysis of 10,000 US patient records covering demographics, medical condi
 
 ## Project structure
 
-- `da_healthcare_excel.xlsx`: cleaned data and analysis sheets
+- `Healthcare_Data_v1.xlsx`: cleaned data and analysis sheets
 - `assets/`: screenshots used in this README
 - `README.md`
 
